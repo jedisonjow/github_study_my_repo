@@ -1,2 +1,6 @@
-this is a test file named zhao4.
+this is a test file named zhao4. changed this in dev.
+<<<<<<< HEAD
 changed after zhao5 dev.
+=======
+Adding changes in dev branch.
+>>>>>>> dev
